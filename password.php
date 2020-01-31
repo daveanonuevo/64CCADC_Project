@@ -31,43 +31,7 @@
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
     <div class="site-wrap">
-
-        <div class="site-mobile-menu site-navbar-target">
-            <div class="site-mobile-menu-header">
-                <div class="site-mobile-menu-close mt-3">
-                    <span class="icon-close2 js-menu-toggle"></span>
-                </div>
-            </div>
-            <div class="site-mobile-menu-body"></div>
-        </div>
-
-        <div class="top-bar py-3 bg-light" id="home-section">
-            <div class="container">
-                <div class="row align-items-center">
-
-                    <div class="col-6 text-left">
-                        <ul class="social-media">
-                            <li><a href="#" class=""><span class="icon-facebook"></span></a></li>
-                            <li><a href="#" class=""><span class="icon-twitter"></span></a></li>
-                            <li><a href="#" class=""><span class="icon-instagram"></span></a></li>
-                            <li><a href="#" class=""><span class="icon-linkedin"></span></a></li>
-                        </ul>
-                    </div>
-                    <div class="col-6">
-                        <p class="mb-0 float-right">
-                            <span class="mr-3"><a href="tel://#"> <span class="icon-phone mr-2"
-                                        style="position: relative; top: 2px;"></span><span
-                                        class="d-none d-lg-inline-block text-black">(+1)
-                                        234 5678 9101</span></a></span>
-                            <span><a href="#"><span class="icon-envelope mr-2"
-                                        style="position: relative; top: 2px;"></span><span
-                                        class="d-none d-lg-inline-block text-black">shop@yourdomain.com</span></a></span>
-                        </p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
+<?php include 'header.php'?>
 
         <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
 
@@ -75,7 +39,7 @@
                 <div class="row align-items-center">
 
                     <div class="col-6 col-xl-2">
-                        <h1 class="mb-0 site-logo"><a href="index.html" class="text-black mb-0">Selling<span
+                        <h1 class="mb-0 site-logo"><a href="index.php" class="text-black mb-0">Selling<span
                                     class="text-primary">.</span> </a></h1>
                     </div>
                     <div class="col-12 col-md-10 d-none d-xl-block">
@@ -179,62 +143,7 @@
             </div>
         </div>
 
-
-        <footer class="site-footer bg-white">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8">
-                        <div class="row">
-                            <div class="col-md-5">
-                                <h2 class="footer-heading mb-4">About Us</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere laudantium
-                                    magnam voluptatum
-                                    autem. Amet aliquid nesciunt veritatis aliquam.</p>
-                            </div>
-                            <div class="col-md-3 ">
-                                <h2 class="footer-heading mb-4">Quick Links</h2>
-                                <ul class="list-unstyled">
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Testimonials</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                </ul>
-                            </div>
-                            <div class="col-md-4">
-                                <h2 class="footer-heading mb-4">Follow Us</h2>
-                                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                                <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 ml-auto">
-                        <h2 class="footer-heading mb-4">Featured Product</h2>
-                        <a href="#"><img src="images/product_1_bg.jpg" alt="Image" class="img-fluid mb-3"></a>
-                        <h4 class="h5">Leather Brown Shoe</h4>
-                        <strong class="text-black mb-3 d-inline-block">$60.00</strong>
-                        <p><a href="#" class="btn btn-black rounded-0">Add to Cart</a></p>
-                    </div>
-                </div>
-                <div class="row pt-5 mt-5 text-center">
-                    <div class="col-md-12">
-                        <div class="border-top pt-5">
-                            <p>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                Copyright &copy;<script>
-                                    document.write(new Date().getFullYear());
-                                </script> All rights reserved | This template is made with <i class="icon-heart"
-                                    aria-hidden="true"></i>
-                                by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </footer>
+        <?php include 'footer.php'?>
 
     </div> <!-- .site-wrap -->
 

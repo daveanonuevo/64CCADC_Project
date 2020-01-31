@@ -1,10 +1,11 @@
 <?php
 // This file is used to connect to the Database
 // Set to plain text for DEBUGGING
-header('Content-type: text/plain');
+//header('Content-type: text/plain');
+
 $servername = "localhost";
 $username = "root";
-$password = "password";
+$password = "";
 $dbname = "user_information";
 
 // Create connection
@@ -34,7 +35,7 @@ lastname TEXT NOT NULL,
 email TEXT NOT NULL UNIQUE,
 password TEXT NOT NULL,
 address TEXT,
-number TEXT
+contact_number TEXT
 )";
 if ($conn->query($sql) === TRUE) {
     echo "\nTable created successfully";

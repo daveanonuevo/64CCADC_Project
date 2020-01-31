@@ -511,7 +511,8 @@ h1, h2, h3, h4, h5,
         transform: translate(-50%, -50%) rotate(-180deg);
         -webkit-transition: .3s all ease;
         -o-transition: .3s all ease;
-        transition: .3s all ease; }
+        transition: .3s all ease;
+      }
       .site-mobile-menu .site-nav-wrap .arrow-collapse.collapsed:before {
         -webkit-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);

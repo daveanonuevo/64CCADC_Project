@@ -1,9 +1,14 @@
 <?php
+session_start();
 
 include 'sql.php';
 
-if (isset($_POST['email'])) {
-    $email = $_POST['email'];
+if (isset($_SESSION['email'])) {
+    $email = $_SESSION['email'];
+}
+else{
+    header("Location: /register.php");
+    return;
 }
 
 if (isset($_POST['password'])) {

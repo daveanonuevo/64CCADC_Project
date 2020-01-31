@@ -1,5 +1,13 @@
 <?php
+session_start();
+
 include 'sql.php';
+
+
+if (isset($_SESSION['email'])) {
+
+    header("Location: /account.php");
+}
 if (isset($_POST['firstname'])) {
     $firstname = $_POST['firstname'];
 }
@@ -21,4 +29,9 @@ VALUES(?,?,?,?)
 $stmt = mysqli_prepare($conn ,$sql);
 $stmt->bind_param("ssss", $firstname, $lastname, $email, $password);
 $stmt->execute();
+
+$_SESSION["firstname"] = $firstname;
+$_SESSION["lastname"] = $lastname;
+$_SESSION["email"] = $email;
+
 header("Location: /welcome.php");
