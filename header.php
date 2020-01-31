@@ -75,9 +75,19 @@
                             <li><a href="#products-section" class="nav-link">Products</a></li>
                             <li><a href="#about-section" class="nav-link">About Us</a></li>
                             <li><a href="#special-section" class="nav-link">Special</a></li>
-                            <li><a href="account.php" class="nav-link">Account</a></li>
-                            <li><a href="login.php" class="nav-link">Login</a></li>
-                            <li><a href="register.php" class="nav-link">Register</a></li>
+
+                            <?php
+                            if (isset($_SESSION['email'])) {
+                                echo '<li><a href="/account.php" class="nav-link">Account</a></li>';
+                            }
+                            ?>
+
+                            <?php
+                            if (!isset($_SESSION['email'])) {
+                                echo '<li><a href="/login.php" class="nav-link">Login</a></li>';
+                                echo '<li><a href="/register.php" class="nav-link">Register</a></li>';
+                            }
+                            ?>
                             <?php
                                 if (isset($_SESSION['email'])) {
                                     echo '<li><a href="/includes/logout.php" class="nav-link">Logout</a></li>';
@@ -94,3 +104,5 @@
         </div>
 
     </header>
+    <br />
+    <br />
