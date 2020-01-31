@@ -118,8 +118,13 @@ if (!isset($_SESSION['email'])) {
 
 
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-6">
                                 <input type="button" onclick="window.location.href = '/updatecontact.php';" value="Update Contact"
+                                       class="btn btn-black rounded-0 py-3 px-4">
+                            </div>
+
+                            <div class="col-md-6">
+                                <input type="button" onclick="window.location.href = '/password.php';" value="Change Password"
                                        class="btn btn-black rounded-0 py-3 px-4">
                             </div>
                         </div>

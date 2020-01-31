@@ -30,12 +30,12 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 // Create tables if not exist
 $sql = "CREATE TABLE IF NOT EXISTS information (
 id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-firstname TEXT NOT NULL,
-lastname TEXT NOT NULL,
-email TEXT NOT NULL UNIQUE,
-password TEXT NOT NULL,
-address TEXT,
-contact_number TEXT
+firstname VARCHAR(255) NOT NULL,
+lastname VARCHAR(255) NOT NULL,
+email VARCHAR(255) NOT NULL UNIQUE,
+password VARCHAR(255) NOT NULL,
+address VARCHAR(255),
+contact_number VARCHAR(255)
 )";
 if ($conn->query($sql) === TRUE) {
     echo "\nTable created successfully";

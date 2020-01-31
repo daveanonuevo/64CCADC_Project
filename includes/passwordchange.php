@@ -46,4 +46,4 @@ UPDATE user_information.information SET password=? WHERE email=?
 $stmt = mysqli_prepare($conn ,$sql);
 $stmt->bind_param("ss", $hashed_password, $email);
 $stmt->execute();
-header("Location: /welcome.php");
+header("Location: /account.php");
