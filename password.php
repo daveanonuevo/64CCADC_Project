@@ -51,9 +51,6 @@
                             <h2 class="h4 text-black mb-5">Change Password</h2>
 
                             <div class="row form-group">
-
-
-                            <div class="row form-group">
                                 <div class="col-md-12">
                                     <label class="text-black" for="currentPassword">Current Password</label>
                                     <input type="password" id="currentpassword" name="password" class="form-control rounded-0">
