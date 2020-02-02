@@ -10,9 +10,15 @@
         <div class="container">
             <div class="row mb-5">
                 <div class="col-6 text-left justify-content-center">
-                    <h2 class="section-title mb-3">Shopping Bags</h2>
-                    <h4 class="text-black-opacity-05">$10.00</h4>
-                    <p class="text-black">My team got a free carry <3</p>
+                    <h2 class="section-title mb-3">High Low Wrap Chiffon Midi Dress</h2>
+                    <h4 class="text-black">$10.00</h4>
+                    <h5 class="text-black-opcaity-05">35% off | Use Code: 123SAVE</h5>
+                
+                    <h2 class="h4 text-black mt-5">Description</h2> 
+                    <p class="text-black">Emanuel got a damn free carry <3</p>
+                    
+                    <h2 class="h4 text-black mt-5">Specification</h2> 
+                    <p class="text-black">At least Gage changed the text of the index page and designed lmao</p>
 
                     <div class="align-bottom">
                         <input type="submit" value="Out of Stock" class="btn btn-outline-black rounded-0 py-3 px-4">

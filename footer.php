@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="footer-heading mb-4">About Us</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere laudantium magnam voluptatum autem. Amet aliquid nesciunt veritatis aliquam.</p>
+                        <p>As Asia's Online Fashion Destination, we create endless possibilities through an ever-expanding range of products from the most casual look to the smartest look.</p>
                     </div>
                     <div class="col-md-3 ">
                         <h2 class="footer-heading mb-4">Quick Links</h2>
@@ -28,8 +28,8 @@
             <div class="col-md-3 ml-auto">
                 <h2 class="footer-heading mb-4">Featured Product</h2>
                 <a href="#"><img src="/images/product_1_bg.jpg" alt="Image" class="img-fluid mb-3"></a>
-                <h4 class="h5">Leather Brown Shoe</h4>
-                <strong class="text-black mb-3 d-inline-block">$60.00</strong>
+                <h4 class="h5">Naples Trial Oxford Shoes</h4>
+                <strong class="text-black mb-3 d-inline-block">$70.00</strong>
                 <p><a href="#" class="btn btn-black rounded-0">Add to Cart</a></p>
             </div>
         </div>

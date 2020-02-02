@@ -21,7 +21,7 @@
             <div class="row mb-4">
               <div class="col-md-7">
                 <h1>Shop With Us</h1>
-                <p class="mb-5 lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <p class="mb-5 lead">EXTRA 25% OFF + FREE SHIPPING ON YOUR FIRST PURCHASE!<br/>USE CODE: SEALTHEDEAL</p>
                 <div>
                   <a href="#" class="btn btn-white btn-outline-white py-3 px-5 rounded-0 mb-lg-0 mb-2 d-block d-sm-inline-block">Shop Now</a>
                   <a href="#" class="btn btn-white py-3 px-5 rounded-0 d-block d-sm-inline-block">Club Membership</a>
@@ -41,49 +41,49 @@
           <div class="col-md-6 text-center">
             <h3 class="section-sub-title">Popular Products</h3>
             <h2 class="section-title mb-3">Our Products</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nostrum natus excepturi fuga ullam accusantium vel ut eveniet aut consequatur laboriosam ipsam.</p>
+            <p>Keep it smart with trends that are built to elevate your look and extend your fashion repertoire.</p>
           </div>
         </div>
 
               <div class="row">
-                  <a href="/products/shopping-bags.php">
+                  <a href="/products/high-low-wrap-chiffon-midi-dress.php">
                   <div class="col-lg-4 col-md-6 mb-5">
                       <div class="product-item">
                           <figure>
                               <img src="images/model_1_bg.jpg" alt="Image" class="img-fluid">
                           </figure>
                           <div class="px-4">
-                              <h3><a href="/products/shopping-bags.php">Shopping Bags</a></h3>
+                              <h3><a href="/products/high-low-wrap-chiffon-midi-dress.php">High Low Wrap Chiffon Midi Dress</a></h3>
                               <div class="mb-3">
                                   <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
                                   <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                               </div>
-                              <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                              <p class="mb-4">35% off | Use Code: 123SAVE</p>
                               <div>
-                                  <a href="/products/shopping-bags.php" class="btn btn-black mr-1 rounded-0">Cart</a>
-                                  <a href="/products/shopping-bags.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
+                                  <a href="/products/high-low-wrap-chiffon-midi-dress.php" class="btn btn-black mr-1 rounded-0">Cart</a>
+                                  <a href="/products/high-low-wrap-chiffon-midi-dress.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
                               </div>
                           </div>
                       </div>
                   </div>
                     </a>
 
-          <a href="/products/guy-tryna-act-cute.php">
+          <a href="/products/auden-wool-suit-jacket.php">
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="product-item">
               <figure>
                 <img src="images/model_2_bg.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
-                <h3><a href="/products/guy-tryna-act-cute.php">Wild West Hoodie</a></h3>
+                <h3><a href="/products/auden-wool-suit-jacket.php">Auden Wool Suit Jacket</a></h3>
                 <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="/products/guy-tryna-act-cute.php" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist active"><a href="/products/guy-tryna-act-cute.php" class="mr-2"><span class="icon-heart"></span></a> 29</span>
+                  <span class="meta-icons mr-3"><a href="/products/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
+                  <span class="meta-icons wishlist active"><a href="/products/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                 </div>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <p class="mb-4">New This Week!</p>
                 <div>
-                  <a href="/products/guy-tryna-act-cute.php" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="/products/guy-tryna-act-cute.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
+                  <a href="/products/auden-wool-suit-jacket.php" class="btn btn-black mr-1 rounded-0">Cart</a>
+                  <a href="/products/auden-wool-suit-jacket.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
                 </div>
               </div>
             </div>
@@ -96,12 +96,12 @@
                 <img src="images/model_3_bg.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
-                <h3><a href="#">Wild West Hoodie</a></h3>
+                <h3><a href="#">Evening Sheer Dolman Sleeve Shirt</a></h3>
                 <div class="mb-3">
                   <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
                   <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                 </div>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <p class="mb-4">Nude and Neutrals.</p>
                 <div>
                   <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
                   <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
@@ -116,12 +116,12 @@
                 <img src="images/model_4_bg.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
-                <h3><a href="#">Wild West Hoodie</a></h3>
+                <h3><a href="#">Core Women's Fit and Flare Jacket</a></h3>
                 <div class="mb-3">
                   <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
                   <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                 </div>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <p class="mb-4">40% off | Use Code 123SAVE.</p>
                 <div>
                   <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
                   <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
@@ -136,12 +136,12 @@
                 <img src="images/model_5_bg.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
-                <h3><a href="#">Wild West Hoodie</a></h3>
+                <h3><a href="#">Naples Trail Oxford Shoes</a></h3>
                 <div class="mb-3">
                   <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
                   <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                 </div>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <p class="mb-4">10% off | Use Code 123SAVE.</p>
                 <div>
                   <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
                   <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
@@ -185,7 +185,7 @@
               <input type="text" class="form-control rounded-0" placeholder="Enter your email address">
               <input type="submit" class="btn btn-white btn-outline-white rounded-0" value="Subscribe">
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat commodi veniam doloremque ducimus tempora.</p>
+            <p>Get notified when there are sales!</p>
           </form>
         </div>
 
@@ -198,7 +198,7 @@
           <div class="col-md-6 text-center">
             <h3 class="section-sub-title">Awesome Products</h3>
             <h2 class="section-title mb-3">Featured Products</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nostrum natus excepturi fuga ullam accusantium vel ut eveniet aut consequatur laboriosam ipsam.</p>
+            <p>Hot products this season!</p>
           </div>
         </div>
         <div class="bg-white py-4 mb-4">
@@ -210,12 +210,12 @@
             <div class="col-md-5 ml-auto product-title-wrap">
               <span class="number">01.</span>
               <h3 class="text-black mb-4 font-weight-bold">About This Product</h3>
-              <p class="mb-4">Et tempora id nostrum saepe amet doloribus deserunt totam officiis cupiditate asperiores quasi accusantium voluptatum dolorem quae sapiente voluptatem ratione odio iure blanditiis earum fuga molestiae alias dicta perferendis inventore!</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta assumenda sed optio, error at?</p>
+              <p class="mb-4">High Low Wrap Chiffon Midi Dress</p>
+              <p>Stretch Fabric</p>
               
               <div class="mb-4"> 
                 <h3 class="text-black font-weight-bold h5">Price:</h3>
-                <div class="price"><del class="mr-2">$269.00</del> $69.00</div>
+                <div class="price"><del class="mr-2">$150.00</del> $69.00</div>
               </div>
               <p>
                 <a href="#" class="btn btn-black btn-outline-black rounded-0 d-block mb-2 mb-lg-0 d-lg-inline-block">View Details</a>
@@ -234,12 +234,12 @@
             <div class="col-md-5 mr-auto product-title-wrap order-2 order-md-1">
               <span class="number">02.</span>
               <h3 class="text-black mb-4 font-weight-bold">About This Product</h3>
-              <p class="mb-4">Et tempora id nostrum saepe amet doloribus deserunt totam officiis cupiditate asperiores quasi accusantium voluptatum dolorem quae sapiente voluptatem ratione odio iure blanditiis earum fuga molestiae alias dicta perferendis inventore!</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus soluta assumenda sed optio, error at?</p>
+              <p class="mb-4">Naples Trail Oxford Shoes</p>
+              <p>Scarface shoes</p>
               
               <div class="mb-4"> 
                 <h3 class="text-black font-weight-bold h5">Price:</h3>
-                <div class="price"><del class="mr-2">$269.00</del> $69.00</div>
+                <div class="price"><del class="mr-2">$200.00</del> $70.00</div>
               </div>
               <p>
                 <a href="#" class="btn btn-black btn-outline-black rounded-0 d-block mb-2 mb-lg-0 d-lg-inline-block">View Details</a>
@@ -266,7 +266,7 @@
           <div class="col-md-3 ml-auto">
             <h3 class="section-sub-title">Merchant Company</h3>
             <h2 class="section-title mb-3">About Us</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui fuga ipsa, repellat blanditiis nihil, consectetur. Consequuntur eum inventore, rem maxime, nisi excepturi ipsam libero ratione adipisci alias eius vero vel!</p>
+            <p class="mb-4">As Asia's Online Fashion Destination, we create endless possibilities through an ever-expanding range of products from the most casual look to the smartest looks.</p>
             <p><a href="#" class="btn btn-black btn-black--hover rounded-0">Learn More</a></p>
           </div>
         </div>
@@ -289,7 +289,7 @@
               <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>John Rooster</h3>
               <p class="position text-muted">Co-Founder, President</p>
-              <p class="mb-4">Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4"></p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -303,7 +303,7 @@
               <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>Tom Sharp</h3>
               <p class="position text-muted">Co-Founder, COO</p>
-              <p class="mb-4">Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4"></p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -317,7 +317,7 @@
               <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>Winston Hodson</h3>
               <p class="position text-muted">Marketing</p>
-              <p class="mb-4">Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4"></p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -337,7 +337,7 @@
           <div class="col-md-7 text-center">
             <h3 class="section-sub-title">Special Promo</h3>
             <h3 class="section-title text-white mb-4">Summer Sale</h3>
-            <p class="mb-5 lead">Repudiandae nostrum natus excepturi fuga ullam accusantium vel ut eveniet aut consequatur laboriosam ipsam.</p>
+            <p class="mb-5 lead"></p>
             
             <div id="date-countdown" class="mb-5"></div>
 
@@ -362,7 +362,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-pie_chart"></span></div>
               <div>
                 <h3>Business Consulting</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Contact our specalists for Business Consulting</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -372,7 +372,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-backspace"></span></div>
               <div>
                 <h3>Market Analysis</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Analyse the market with our professionals</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -382,7 +382,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-av_timer"></span></div>
               <div>
                 <h3>User Monitoring</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Monitor user traffic using our User Monitoring software</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -394,7 +394,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-beenhere"></span></div>
               <div>
                 <h3>Seller Consulting</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Talk to trusted sellers for tips and tricks for selling!</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -404,7 +404,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-business_center"></span></div>
               <div>
                 <h3>Financial Investment</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Meet and talk about investments with out specalists that will guide you through every step</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -414,7 +414,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-cloud_done"></span></div>
               <div>
                 <h3>Financial Management</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Manage your finances well with our specalists help!</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -496,53 +496,6 @@
 
         </div>
     </div>
-
-    
-
-    <div class="site-section" id="blog-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <h3 class="section-sub-title">Blog</h3>
-            <h2 class="section-title mb-3">Blog Posts</h2>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/model_1_bg.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular"><a href="#" class="text-black">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-              <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div> 
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/product_1_bg.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular"><a href="#" class="text-black">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/model_5_bg.jpg" alt="Image" class="img-fluid">
-              <h2 class="font-size-regular"><a href="#" class="text-black">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h2>
-              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div> 
-          </div>
-          
-        </div>
-      </div>
-    </div>
-
-   
-
 
     <div class="site-section bg-light" id="contact-section">
       <div class="container">
