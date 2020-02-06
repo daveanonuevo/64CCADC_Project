@@ -15,10 +15,10 @@
                     <h5 class="text-black-opcaity-05">35% off | Use Code: 123SAVE</h5>
                 
                     <h2 class="h4 text-black mt-5">Description</h2> 
-                    <p class="text-black">Emanuel got a damn free carry <3</p>
+                    <p class="text-black">Cheap and Affordable <3</p>
                     
                     <h2 class="h4 text-black mt-5">Specification</h2> 
-                    <p class="text-black">At least Gage changed the text of the index page and designed lmao</p>
+                    <p class="text-black">Comes in many colours...(when got stock ah lol)</p>
 
                     <div class="align-bottom">
                         <input type="submit" value="Out of Stock" class="btn btn-outline-black rounded-0 py-3 px-4">

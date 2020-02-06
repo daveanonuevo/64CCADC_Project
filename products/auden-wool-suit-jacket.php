@@ -11,17 +11,15 @@
             <div class="row mb-5">
                 <div class="col-6 text-left justify-content-center">
                     <h2 class="section-title mb-3">Auden Wool Suit Jacket</h2>
-                    <h4 class="text-black">PRICELESS</h4>
                     <h5 class="text-black-opactiy-05">New This Week!</h5>
-                    <p class="text-black">My team isn't even paying me.</p>
+                    <p class="text-black">35% off | Use Code: NSS</p>
 
 
                     <h2 class="h4 text-black mt-5">Description</h2> 
-                    <p class="text-black">Emanuel, this is what the page is supposed to look like.</p>
-                    <p class="text-black">Not a singled out product in a SINGLE-ITEM-LIST of products???</p>
+                    <p class="text-black">Best selling, designer suit jacket! Get it while stocks last!</p>
                     
                     <h2 class="h4 text-black mt-5">Specification</h2> 
-                    <p class="text-black">smh smh smh</p>
+                    <p class="text-black">Comes in many colours...(when got stock ah lol)</p>
 
                     <div class="align-bottom">
                         <input type="submit" value="Out of Stock" class="btn btn-outline-black rounded-0 py-3 px-4">

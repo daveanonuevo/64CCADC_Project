@@ -27,10 +27,10 @@
             </div>
             <div class="col-md-3 ml-auto">
                 <h2 class="footer-heading mb-4">Featured Product</h2>
-                <a href="#"><img src="/images/product_1_bg.jpg" alt="Image" class="img-fluid mb-3"></a>
-                <h4 class="h5">Naples Trial Oxford Shoes</h4>
+                <a href="/products/auden-wool-suit-jacket.php"><img src="images/model_2_bg.jpg" alt="Image" class="img-fluid mb-3"></a>
+                <h4 class="h5">Auden Wool Suit Jacket</h4>
                 <strong class="text-black mb-3 d-inline-block">$70.00</strong>
-                <p><a href="#" class="btn btn-black rounded-0">Add to Cart</a></p>
+                <p><a href="/products/auden-wool-suit-jacket.php" class="btn btn-black rounded-0">Add to Cart</a></p>
             </div>
         </div>
         <div class="row pt-5 mt-5 text-center">
