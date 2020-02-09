@@ -20,6 +20,16 @@
     <link rel="stylesheet" href="/css/aos.css">
     <link rel="stylesheet" href="/css/style.css">
 
+    <meta http-equiv="expires" content="Sun, 01 Jan 2014 00:00:00 GMT"/>
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <?php
+    header('Expires: Sun, 01 Jan 2014 00:00:00 GMT');
+    header('Cache-Control: no-store, no-cache, must-revalidate');
+    header('Cache-Control: post-check=0, pre-check=0', FALSE);
+    header('Pragma: no-cache');
+    ?>
+
 </head>
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 

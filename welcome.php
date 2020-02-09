@@ -6,4 +6,4 @@ echo $_SESSION["firstname"];
 echo $_SESSION["lastname"] ;
 echo $_SESSION["email"];
 
-header("Location: /account.php");
+// header("Location: /account.php");
