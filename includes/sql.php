@@ -15,14 +15,14 @@ $conn = new mysqli($servername, $username, $password);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-echo "Connected successfully\n";
+echo "Connected successfully<br>";
 
 // Create database if does not exist
 $sql = "CREATE DATABASE IF NOT EXISTS user_information";
 if ($conn->query($sql) === TRUE) {
-    echo "Database created successfully\n";
+    echo "Database created successfully<br>";
 } else {
-    echo "\nError creating database: " . $conn->error;
+    echo "<br>Error creating database: " . $conn->error;
 }
 $conn->close();
 
@@ -38,8 +38,8 @@ address VARCHAR(255),
 contact_number VARCHAR(255)
 )";
 if ($conn->query($sql) === TRUE) {
-    echo "\nTable created successfully";
+    echo "<br>Table created successfully";
 } else {
-    echo "\nError creating database: " . $conn->error;
+    echo "<br>Error creating database: " . $conn->error;
 }
-echo "\nEND";
+echo "<br>END<br>";

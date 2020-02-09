@@ -22,8 +22,8 @@ if (isset($_POST['password'])) {
 }
 
 // Checks if User Exists
-if (isset($_SESSION['email'])) {
-    $email = $_SESSION['email'];
+if (isset(($_POST['email']))) {
+    $email = $_POST['email'];
 
     $sql = "
 SELECT * FROM user_information.information WHERE email=?
@@ -35,11 +35,13 @@ SELECT * FROM user_information.information WHERE email=?
     $result = $stmt->get_result(); // get the mysqli result
 
     if ($row = $result->fetch_assoc()) {
-        echo "Account with email exists";
+        echo "<br>Account with email exists<br>";
+        exit();
         return;
     } else {
-        echo "Account does not exist";
+        echo "<br>Account does not exist<br>";
     }
+    echo "<br>Code Reached 3<br>";
 }
 
 
