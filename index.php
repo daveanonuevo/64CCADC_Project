@@ -46,130 +46,49 @@
         </div>
 
               <div class="row">
-                  <a href="/products/high-low-wrap-chiffon-midi-dress.php">
+                  <a href="/products/women.php">
                   <div class="col-lg-4 col-md-6 mb-5">
                       <div class="product-item">
                           <figure>
-                              <img src="images/model_1_bg.jpg" alt="Image" class="img-fluid">
+                              <img src="/images/model_1_bg.jpg" alt="Image" class="img-fluid">
                           </figure>
                           <div class="px-4">
-                              <h3><a href="/products/high-low-wrap-chiffon-midi-dress.php">High Low Wrap Chiffon Midi Dress</a></h3>
+                              <h3><a href="/products/women.php">Women</a></h3>
                               <div class="mb-3">
                                   <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
                                   <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                               </div>
                               <p class="mb-4">35% off | Use Code: 123SAVE</p>
                               <div>
-                                  <a href="/products/high-low-wrap-chiffon-midi-dress.php" class="btn btn-black mr-1 rounded-0">Cart</a>
-                                  <a href="/products/high-low-wrap-chiffon-midi-dress.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
+                                  <a href="/products/women.php" class="btn btn-black mr-1 rounded-0">Cart</a>
+                                  <a href="/products/women.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
                               </div>
                           </div>
                       </div>
                   </div>
                     </a>
 
-          <a href="/products/auden-wool-suit-jacket.php">
+          <a href="/products/men.php">
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="product-item">
               <figure>
-                <img src="images/model_2_bg.jpg" alt="Image" class="img-fluid">
+                <img src="/images/model_2_bg.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
-                <h3><a href="/products/auden-wool-suit-jacket.php">Auden Wool Suit Jacket</a></h3>
+                <h3><a href="/products/men.php">Men</a></h3>
                 <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="/products/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist active"><a href="/products/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-heart"></span></a> 29</span>
+                  <span class="meta-icons mr-3"><a href="/products/men.php" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
+                  <span class="meta-icons wishlist active"><a href="/products/men.php" class="mr-2"><span class="icon-heart"></span></a> 29</span>
                 </div>
                 <p class="mb-4">New This Week!</p>
                 <div>
-                  <a href="/products/auden-wool-suit-jacket.php" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="/products/auden-wool-suit-jacket.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
+                  <a href="/products/men.php" class="btn btn-black mr-1 rounded-0">Cart</a>
+                  <a href="/products/men.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
                 </div>
               </div>
             </div>
           </div>
           </a>
-
-          <div class="col-lg-4 col-md-6 mb-5">
-            <div class="product-item">
-              <figure>
-                <img src="images/model_3_bg.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="px-4">
-                <h3><a href="#">Evening Sheer Dolman Sleeve Shirt</a></h3>
-                <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
-                </div>
-                <p class="mb-4">Nude and Neutrals.</p>
-                <div>
-                  <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-5">
-            <div class="product-item">
-              <figure>
-                <img src="images/model_4_bg.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="px-4">
-                <h3><a href="#">Core Women's Fit and Flare Jacket</a></h3>
-                <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
-                </div>
-                <p class="mb-4">40% off | Use Code 123SAVE.</p>
-                <div>
-                  <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col-lg-4 col-md-6 mb-5">
-            <div class="product-item">
-              <figure>
-                <img src="images/model_5_bg.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="px-4">
-                <h3><a href="#">Naples Trail Oxford Shoes</a></h3>
-                <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
-                </div>
-                <p class="mb-4">10% off | Use Code 123SAVE.</p>
-                <div>
-                  <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-5">
-            <div class="product-item">
-              <figure>
-                <img src="images/product_1_bg.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="px-4">
-                <h3><a href="#">Wild West Hoodie</a></h3>
-                <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="#" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist"><a href="#" class="mr-2"><span class="icon-heart"></span></a> 29</span>
-                </div>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-                <div>
-                  <a href="#" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="#" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
           
         </div>
       </div>
@@ -204,7 +123,7 @@
         <div class="bg-white py-4 mb-4">
           <div class="row mx-4 my-4 product-item-2 align-items-start">
             <div class="col-md-6 mb-5 mb-md-0">
-              <img src="images/model_1_bg.jpg" alt="Image" class="img-fluid">
+              <img src="/images/model_1_bg.jpg" alt="Image" class="img-fluid">
             </div>
            
             <div class="col-md-5 ml-auto product-title-wrap">
@@ -228,7 +147,7 @@
         <div class="bg-white py-4">
           <div class="row mx-4 my-4 product-item-2 align-items-start">
             <div class="col-md-6 mb-5 mb-md-0 order-1 order-md-2">
-              <img src="images/product_1_bg.jpg" alt="Image" class="img-fluid">
+              <img src="/images/product_1_bg.jpg" alt="Image" class="img-fluid">
             </div>
            
             <div class="col-md-5 mr-auto product-title-wrap order-2 order-md-1">
@@ -257,7 +176,7 @@
       <div class="container">
         <div class="row align-items-lg-center">
           <div class="col-md-8 mb-5 mb-lg-0 position-relative">
-            <img src="images/about_1.jpg" class="img-fluid" alt="Image">
+            <img src="/images/about_1.jpg" class="img-fluid" alt="Image">
             <div class="experience">
               <span class="year">Trusted Merchant</span>
               <span class="caption">for 50 years</span>
@@ -286,7 +205,7 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
             <div class="person text-center">
-              <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
+              <img src="/images/person_2.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>John Rooster</h3>
               <p class="position text-muted">Co-Founder, President</p>
               <p class="mb-4"></p>
@@ -300,7 +219,7 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
             <div class="person text-center">
-              <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
+              <img src="/images/person_3.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>Tom Sharp</h3>
               <p class="position text-muted">Co-Founder, COO</p>
               <p class="mb-4"></p>
@@ -314,7 +233,7 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
             <div class="person text-center">
-              <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
+              <img src="/images/person_4.jpg" alt="Image" class="img-fluid rounded w-75 mb-3">
               <h3>Winston Hodson</h3>
               <p class="position text-muted">Marketing</p>
               <p class="mb-4"></p>
@@ -437,7 +356,7 @@
           <div>
             <div class="testimonial">
               <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_3.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
+                <div><img src="/images/person_3.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
               </figure>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
@@ -451,7 +370,7 @@
             <div class="testimonial">
               
               <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_2.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
+                <div><img src="/images/person_2.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
               </figure>
 
               <blockquote class="mb-3">
@@ -467,7 +386,7 @@
           <div>
             <div class="testimonial">
               <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_4.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
+                <div><img src="/images/person_4.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
               </figure>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
@@ -482,7 +401,7 @@
           <div>
             <div class="testimonial">
               <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
+                <div><img src="/images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3"></div>
               </figure>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
