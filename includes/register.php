@@ -21,6 +21,29 @@ if (isset($_POST['password'])) {
     $password = password_hash($_POST['password'], PASSWORD_DEFAULT);
 }
 
+// Checks if User Exists
+if (isset($_SESSION['email'])) {
+    $email = $_SESSION['email'];
+
+    $sql = "
+SELECT * FROM user_information.information WHERE email=?
+";
+
+    $stmt = mysqli_prepare($conn ,$sql);
+    $stmt->bind_param("s", $email);
+    $stmt->execute();
+    $result = $stmt->get_result(); // get the mysqli result
+
+    if ($row = $result->fetch_assoc()) {
+        echo "Account with email exists";
+        return;
+    } else {
+        echo "Account does not exist";
+    }
+}
+
+
+
 // INSERT DATA INTO SQL
 $sql = "
 INSERT INTO information(firstname, lastname, email, password)
