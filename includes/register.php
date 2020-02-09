@@ -57,4 +57,4 @@ $_SESSION["firstname"] = $firstname;
 $_SESSION["lastname"] = $lastname;
 $_SESSION["email"] = $email;
 
-header("Location: /welcome.php");
+header("Location: /account.php");

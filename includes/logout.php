@@ -7,4 +7,4 @@ session_destroy();
 $_SESSION = [];
 
 
-header("Location: /welcome.php");
+header("Location: /login.php");
