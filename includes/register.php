@@ -46,6 +46,7 @@ SELECT * FROM user_information.information WHERE email=?
     }
     echo "<br>Code Reached 3<br>";
 }
+
 // Checks if User with Username exists
 if (isset(($_POST['username']))) {
     $username = $_POST['username'];

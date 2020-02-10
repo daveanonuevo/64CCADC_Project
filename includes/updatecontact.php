@@ -34,4 +34,4 @@ $stmt->execute();
 $_SESSION["address"] = $_POST['address'];
 $_SESSION["contact_number"] = $_POST['contact_number'];
 
-header("Location: /welcome.php");
+header("Location: /account.php");
