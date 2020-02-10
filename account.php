@@ -59,7 +59,9 @@ if (!isset($_SESSION['email'])) {
                         <h2 class="h4 text-black mb-5">Account Details</h2>
 
                         <div class="row ">
-
+                            <div class="col-md-12">
+                                <p class="text-black">Username: <?php echo $_SESSION["username"]?> </p>
+                            </div>
                             <div class="col-md-12">
                                 <h4 class="text-black">Name (First Name + Last Name): </h4>
                                 <p class="rounded-0"> <?php echo $_SESSION["firstname"] ." ". $_SESSION["lastname"] ?> </p>

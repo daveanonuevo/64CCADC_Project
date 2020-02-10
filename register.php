@@ -68,6 +68,14 @@
               <div class="row form-group">
 
                 <div class="col-md-12">
+                  <label class="text-black" for="username">Username</label>
+                  <input type="text" id="username" name="username" class="form-control rounded-0" required>
+                </div>
+              </div>
+
+              <div class="row form-group">
+
+                <div class="col-md-12">
                   <label class="text-black" for="email">Email</label>
                   <input type="email" id="email" name="email" class="form-control rounded-0" required>
                 </div>

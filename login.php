@@ -56,8 +56,8 @@
                             <div class="row form-group">
 
                                 <div class="col-md-12">
-                                    <label class="text-black" for="email">Email</label>
-                                    <input type="email" id="email" name="email" class="form-control rounded-0">
+                                    <label class="text-black" for="emailusername">Email/Username</label>
+                                    <input type="text" id="emailusername" name="emailusername" class="form-control rounded-0" required>
                                 </div>
                             </div>
 
@@ -65,7 +65,7 @@
 
                                 <div class="col-md-12">
                                     <label class="text-black" for="password">Password</label>
-                                    <input type="password" id="subject" name="password"class="form-control rounded-0">
+                                    <input type="password" id="subject" name="password"class="form-control rounded-0" required>
                                 </div>
                             </div>
 
