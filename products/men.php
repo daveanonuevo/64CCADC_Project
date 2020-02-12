@@ -7,57 +7,128 @@
     <?php include '../header.php' ?>
 
 
-    <div class="container">
-        <div class="row align-items-center justify-content-center">
+		<div class="site-section bg-light" id="products-section">
+		
+			<div class="container">
+			
+				<br><h2 class="text-black" align="center">Men's</h2><hr size="6" width="100%" align="left" color="black">
+			
+				<div class="col-md-6 float-left">
+					<br><h6 class="text-black">Men's Premium Clothing</h6>
+					
+					<div class="block">
+						<label class="container"><input type="checkbox"> Polo
+						  <span class="checkmark"></span>
+						</label>
 
-          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
-                        
-            <div class="row mb-4">
-              <div class="col-md-7">
+						<label class="container"><input type="checkbox"> Formal
+						  <span class="checkmark"></span>
+						</label>
 
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-    <div class="site-section" id="products-section">
-      <div class="container">
-        <div class="row mb-5 justify-content-center">
-          <div class="col-md-6 text-center">
-            <h3 class="section-sub-title">Men Products</h3>
-            <h2 class="section-title mb-3">Products for Men</h2>
-            <p>Keep it smart with trends that are built to elevate your look and extend your fashion repertoire.</p>
-          </div>
-        </div>
+						<label class="container"><input type="checkbox"> Shorts
+						  <span class="checkmark"></span>
+						</label>
 
-              <div class="row">
-              <a href="/items/auden-wool-suit-jacket.php">
-          <div class="col-lg-4 col-md-6 mb-5">
-            <div class="product-item">
-              <figure>
-                <img src="/images/model_2_bg.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="px-4">
-                <h3><a href="/items/auden-wool-suit-jacket.php">Auden Wool Suit Jacket</a></h3>
-                <div class="mb-3">
-                  <span class="meta-icons mr-3"><a href="/items/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-star text-warning"></span></a> 5.0</span>
-                  <span class="meta-icons wishlist active"><a href="/items/auden-wool-suit-jacket.php" class="mr-2"><span class="icon-heart"></span></a> 29</span>
-                </div>
-                <p class="mb-4">New This Week!</p>
-                <div>
-                  <a href="/items/auden-wool-suit-jacket.php" class="btn btn-black mr-1 rounded-0">Cart</a>
-                  <a href="/items/auden-wool-suit-jacket.php" class="btn btn-black btn-outline-black ml-1 rounded-0">View</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          </a>
-
-                </div>
-    
-
-
+						<label class="container"><input type="checkbox"> Pants
+						  <span class="checkmark"></span>
+						</label>
+						
+						
+					</div>
+				</div>
+				
+				<table align="center" cellspacing="0" cellpadding="10">
+					<tr align="center">
+						<td>
+							<img src="/images/img/model_2_bg.jpg" width="200" height="230"><br>
+							Auden Wool Suit Jacket<br>
+							$50<br>
+							<p><a href="/items/auden-wool-suit-jacket.php" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/banana.jpg" width="200" height="230"><br>
+							Long Sleeve Formal Shirt<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/tommy.jpg" width="200" height="230"><br>
+							White Shirt<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/pants.jpg" width="200" height="230"><br>
+							Long Pants<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+					</tr>
+					
+					<tr align="center">
+						<td>
+							<img src="/images/img/12.jpg" width="200" height="230"><br>
+							Black Smart Casual<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+							
+						</td>
+						<td>
+							<img src="/images/img/13.jpg" width="200" height="230"><br>
+							Black Outer Wear<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/14.jpg" width="200" height="230"><br>
+							Grey Long Sleeve Shirt<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/polo.jpeg" width="200" height="230"><br>
+							Regular Fit Piqué Polo<br>
+							$60<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+					</tr>
+					
+					<tr align="center">
+						<td>
+							<img src="/images/img/16.jpg" width="200" height="230"><br>
+							Business Shirt<br>
+							$50<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/hoodie.jpeg" width="200" height="230"><br>
+							CDG PLAY Zip-Up Hoodie<br>
+							$470<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/pullover.jpeg" width="200" height="230"><br>
+							CHAMPION Pullover Hoodie <br>
+							$89.94<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+						<td>
+							<img src="/images/img/pants.jpeg" width="200" height="230"><br>
+							Hybrid Tech Commuter Pants<br>
+							$118.41<br>
+							<p><a href="#" class="btn btn-black rounded-0">View</a></p>
+						</td>
+					</tr>
+				</table>
+					
+					
+					
+					
+					
+					
+			</div>
+		</div>
+	
     <?php include '../footer.php'?>
 
 </div> <!-- .site-wrap -->
