@@ -42,9 +42,7 @@ SELECT * FROM user_information.information WHERE email=?
         exit();
         return;
     } else {
-        echo "<br>Account does not exist<br>";
     }
-    echo "<br>Code Reached 3<br>";
 }
 
 // Checks if User with Username exists
@@ -65,18 +63,15 @@ SELECT * FROM user_information.information WHERE username=?
         exit();
         return;
     } else {
-        echo "<br>Account does not exist<br>";
     }
-    echo "<br>Code Reached 3<br>";
 }
-
-
 
 // INSERT DATA INTO SQL
 $sql = "
 INSERT INTO information(username, firstname, lastname, email, password)
 VALUES(?,?,?,?,?)
 ";
+
 $stmt = mysqli_prepare($conn ,$sql);
 $stmt->bind_param("sssss", $username, $firstname, $lastname, $email, $password);
 $stmt->execute();
