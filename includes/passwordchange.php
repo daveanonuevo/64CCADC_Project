@@ -23,7 +23,6 @@ SELECT password FROM user_information.information WHERE email=?;
     $result = $stmt->get_result(); // get the mysqli result
     $stored_password = $result->fetch_assoc()['password']; // fetch data
     if (password_verify($_POST['password'], $stored_password)) {
-        echo "Password is correct";
     }
     else {
         // Invalid credentials

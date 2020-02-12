@@ -21,8 +21,6 @@ SELECT 1 FROM user_information.information WHERE email=? OR username=?
     $result = $stmt->get_result(); // get the mysqli result
 
     if ($result->num_rows) {
-        // output data of each row
-        echo "Account exists";
     } else {
         echo "Account does not exist";
         exit();
@@ -45,7 +43,6 @@ SELECT password FROM user_information.information WHERE email=? OR username=?;
     $result = $stmt->get_result(); // get the mysqli result
     $stored_password = $result->fetch_assoc()['password']; // fetch data
     if (password_verify($_POST['password'], $stored_password)) {
-        echo "Password is correct";
 
         if (isset($_POST['emailusername'])) {
             $emailusername = $_POST['emailusername'];
